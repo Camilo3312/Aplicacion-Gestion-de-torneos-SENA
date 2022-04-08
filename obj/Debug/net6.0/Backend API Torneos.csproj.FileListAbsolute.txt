@@ -1,0 +1,27 @@
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\appsettings.json
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Backend API Torneos.exe
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Backend API Torneos.deps.json
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Backend API Torneos.runtimeconfig.json
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Backend API Torneos.dll
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Backend API Torneos.pdb
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adsi\Desktop\Backend API Torneos\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.csproj.AssemblyReference.cache
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.AssemblyInfoInputs.cache
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.AssemblyInfo.cs
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.csproj.CoreCompileInputs.cache
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\scopedcss\bundle\Backend API Torneos.styles.css
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.csproj.CopyComplete
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.dll
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\refint\Backend API Torneos.dll
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.pdb
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\Backend API Torneos.genruntimeconfig.cache
+C:\Users\adsi\Desktop\Backend API Torneos\obj\Debug\net6.0\ref\Backend API Torneos.dll
