@@ -9,9 +9,10 @@ namespace Gestion_de_torneos.Models
 {
     public class Enfrentamientos
     {
-        public List<Equipo> grupo_a { get; set; }
-        public List<Equipo> grupo_b { get; set; }
-
+        private List<Equipo> _grupo_a;
+        public List<Equipo> grupo_a { set { _grupo_a = value; } get { return _grupo_a; } }
+        private List<Equipo> _grupo_b;
+        public List<Equipo> grupo_b { set { _grupo_b = value; } get { return _grupo_b; } }
         public Enfrentamientos(List<Equipo> equiposTorneo)
         {
             DistribucionEquipos(equiposTorneo);

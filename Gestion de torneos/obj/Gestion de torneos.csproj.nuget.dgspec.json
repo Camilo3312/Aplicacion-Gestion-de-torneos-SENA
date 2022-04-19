@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Camilo\\Desktop\\Projects\\Gestion de torneos\\Gestion de torneos\\Gestion de torneos.csproj": {}
+    "C:\\Users\\mjhon\\OneDrive\\Escritorio\\Aplicacion Gestion Torneos\\Aplicacion-Gestion-de-torneos-SENA\\Gestion de torneos\\Gestion de torneos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Camilo\\Desktop\\Projects\\Gestion de torneos\\Gestion de torneos\\Gestion de torneos.csproj": {
+    "C:\\Users\\mjhon\\OneDrive\\Escritorio\\Aplicacion Gestion Torneos\\Aplicacion-Gestion-de-torneos-SENA\\Gestion de torneos\\Gestion de torneos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Camilo\\Desktop\\Projects\\Gestion de torneos\\Gestion de torneos\\Gestion de torneos.csproj",
+        "projectUniqueName": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\Aplicacion Gestion Torneos\\Aplicacion-Gestion-de-torneos-SENA\\Gestion de torneos\\Gestion de torneos.csproj",
         "projectName": "Gestion de torneos",
-        "projectPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Gestion de torneos\\Gestion de torneos\\Gestion de torneos.csproj",
-        "packagesPath": "C:\\Users\\Camilo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Camilo\\Desktop\\Projects\\Gestion de torneos\\Gestion de torneos\\obj\\",
+        "projectPath": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\Aplicacion Gestion Torneos\\Aplicacion-Gestion-de-torneos-SENA\\Gestion de torneos\\Gestion de torneos.csproj",
+        "packagesPath": "C:\\Users\\mjhon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mjhon\\OneDrive\\Escritorio\\Aplicacion Gestion Torneos\\Aplicacion-Gestion-de-torneos-SENA\\Gestion de torneos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Camilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mjhon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,9 +44,27 @@
               "target": "Package",
               "version": "[2.0.123, )"
             },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.16, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.28, )"
+            },
+            "Nancy.Serialization.JsonNet": {
+              "target": "Package",
+              "version": "[1.4.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -71,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

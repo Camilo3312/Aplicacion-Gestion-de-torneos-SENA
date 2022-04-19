@@ -28,6 +28,7 @@ namespace Gestion_de_torneos
         {
 
             services.AddControllers();
+            services.AddCors();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Gestion_de_torneos", Version = "v1" });
@@ -43,6 +44,8 @@ namespace Gestion_de_torneos
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Gestion_de_torneos v1"));
             }
+            app.UseCors(builder => builder.AllowAnyMethod().AllowAnyHeader().AllowAnyOrigin()
+            );
 
             app.UseHttpsRedirection();
 

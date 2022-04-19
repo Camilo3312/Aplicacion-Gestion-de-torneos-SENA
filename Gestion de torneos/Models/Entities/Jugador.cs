@@ -2,10 +2,17 @@
 {
     public class Jugador
     {
-        public string nombre { get; set; }
-        public string ficha { get; set; }
-        public string jornada { get; set; }
-        public bool estado { get; set; }
+        private string _nombre;
+        public string nombre { set { _nombre = value; } get { return _nombre; } }
+
+        private string _ficha;
+        public string ficha { set { _ficha = value; } get { return _ficha; } }
+
+        private string _jornada;
+        public string jornada { set { _jornada = value; } get { return _jornada; } }
+
+        private bool _estado; 
+        public bool estado { set { _estado = value; } get { return _estado; }  }
         
         public Jugador(string nombre, string ficha, string jornada, bool estado)
         {
