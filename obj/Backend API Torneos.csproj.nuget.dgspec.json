@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adsi\\Desktop\\Backend API Torneos\\Backend API Torneos.csproj": {}
+    "C:\\Users\\adsi\\Desktop\\Aplicacion-Gestion-de-torneos-SENA\\Backend API Torneos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adsi\\Desktop\\Backend API Torneos\\Backend API Torneos.csproj": {
+    "C:\\Users\\adsi\\Desktop\\Aplicacion-Gestion-de-torneos-SENA\\Backend API Torneos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adsi\\Desktop\\Backend API Torneos\\Backend API Torneos.csproj",
+        "projectUniqueName": "C:\\Users\\adsi\\Desktop\\Aplicacion-Gestion-de-torneos-SENA\\Backend API Torneos.csproj",
         "projectName": "Backend API Torneos",
-        "projectPath": "C:\\Users\\adsi\\Desktop\\Backend API Torneos\\Backend API Torneos.csproj",
+        "projectPath": "C:\\Users\\adsi\\Desktop\\Aplicacion-Gestion-de-torneos-SENA\\Backend API Torneos.csproj",
         "packagesPath": "C:\\Users\\adsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adsi\\Desktop\\Backend API Torneos\\obj\\",
+        "outputPath": "C:\\Users\\adsi\\Desktop\\Aplicacion-Gestion-de-torneos-SENA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adsi\\AppData\\Roaming\\NuGet\\NuGet.Config",

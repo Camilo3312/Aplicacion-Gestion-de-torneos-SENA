@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hNfNoYfxLRbg+ayqY/giD3CTlvX5y/VXudvS9RX4CNXqgSUy3tQlf1VL+CLfuqXK/ddh5EpeQAFcHaI1lUdMOA==",
+  "dgSpecHash": "+UFpyRAKnmCko1L9GnA6hrwre1A9UmvtD971zwauFr0e8CJ4OELbAvZsNXfLMQf7etMIpxZx1GPAJ4aKYjPnkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adsi\\Desktop\\Backend API Torneos\\Backend API Torneos.csproj",
+  "projectFilePath": "C:\\Users\\adsi\\Desktop\\Aplicacion-Gestion-de-torneos-SENA\\Backend API Torneos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adsi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\adsi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
